@@ -1,0 +1,4 @@
+C:\Users\IT\Documents\Visual Studio 2010\Projects\Zinal\SkypeLCD\Zinal.SkypeLibrary\bin\Debug\Zinal.SkypeLibrary.dll
+C:\Users\IT\Documents\Visual Studio 2010\Projects\Zinal\SkypeLCD\Zinal.SkypeLibrary\bin\Debug\Zinal.SkypeLibrary.pdb
+C:\Users\IT\Documents\Visual Studio 2010\Projects\Zinal\SkypeLCD\Zinal.SkypeLibrary\obj\Debug\Zinal.SkypeLibrary.dll
+C:\Users\IT\Documents\Visual Studio 2010\Projects\Zinal\SkypeLCD\Zinal.SkypeLibrary\obj\Debug\Zinal.SkypeLibrary.pdb

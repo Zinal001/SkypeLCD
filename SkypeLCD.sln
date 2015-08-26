@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkypeLCD", "SkypeLCD\SkypeLCD.csproj", "{CC26BC2C-C7AC-4A13-BC2D-72D5031B781B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zinal.SkypeLibrary", "Zinal.SkypeLibrary\Zinal.SkypeLibrary.csproj", "{988C2DD4-D640-449B-8CB9-3F5687A223CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LgLcd.NET", "..\..\General Libraries\NET\LgLcd\LgLcd.NET\LgLcd.NET\LgLcd.NET.csproj", "{E272A244-1108-4841-88A5-6E44ADBA509E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC26BC2C-C7AC-4A13-BC2D-72D5031B781B}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{CC26BC2C-C7AC-4A13-BC2D-72D5031B781B}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{CC26BC2C-C7AC-4A13-BC2D-72D5031B781B}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{CC26BC2C-C7AC-4A13-BC2D-72D5031B781B}.Debug|x86.ActiveCfg = Debug|x86
+		{CC26BC2C-C7AC-4A13-BC2D-72D5031B781B}.Debug|x86.Build.0 = Debug|x86
+		{CC26BC2C-C7AC-4A13-BC2D-72D5031B781B}.Release|Any CPU.ActiveCfg = Release|x86
+		{CC26BC2C-C7AC-4A13-BC2D-72D5031B781B}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{CC26BC2C-C7AC-4A13-BC2D-72D5031B781B}.Release|Mixed Platforms.Build.0 = Release|x86
+		{CC26BC2C-C7AC-4A13-BC2D-72D5031B781B}.Release|x86.ActiveCfg = Release|x86
+		{CC26BC2C-C7AC-4A13-BC2D-72D5031B781B}.Release|x86.Build.0 = Release|x86
+		{988C2DD4-D640-449B-8CB9-3F5687A223CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{988C2DD4-D640-449B-8CB9-3F5687A223CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{988C2DD4-D640-449B-8CB9-3F5687A223CC}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{988C2DD4-D640-449B-8CB9-3F5687A223CC}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{988C2DD4-D640-449B-8CB9-3F5687A223CC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{988C2DD4-D640-449B-8CB9-3F5687A223CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{988C2DD4-D640-449B-8CB9-3F5687A223CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{988C2DD4-D640-449B-8CB9-3F5687A223CC}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{988C2DD4-D640-449B-8CB9-3F5687A223CC}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{988C2DD4-D640-449B-8CB9-3F5687A223CC}.Release|x86.ActiveCfg = Release|Any CPU
+		{E272A244-1108-4841-88A5-6E44ADBA509E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E272A244-1108-4841-88A5-6E44ADBA509E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E272A244-1108-4841-88A5-6E44ADBA509E}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{E272A244-1108-4841-88A5-6E44ADBA509E}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{E272A244-1108-4841-88A5-6E44ADBA509E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E272A244-1108-4841-88A5-6E44ADBA509E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E272A244-1108-4841-88A5-6E44ADBA509E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E272A244-1108-4841-88A5-6E44ADBA509E}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{E272A244-1108-4841-88A5-6E44ADBA509E}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{E272A244-1108-4841-88A5-6E44ADBA509E}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
